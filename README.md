@@ -1,5 +1,5 @@
 # Max Moir
 
-### Computer Science and Math w/ Economics Minor @ University of Canterbury
+### Computer Science and Maths w/ Economics Minor @ University of Canterbury
 <br>
 Check out some of my projects below!
